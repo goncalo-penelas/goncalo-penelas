@@ -5,7 +5,7 @@ On my profile you can see some of the projects I worked on.
 
 - I'm 22 years old and I'm currently working as a Technical Consultant in Dynamics NAV/365 BC at Arquiconsult.
 - Daily, I work with Dynamics NAV/365 BC, SQL and Azure DevOps.
-- I'm insterested in Intelligent Systems and Data Science area.
+- I'm insterested in Intelligent Systems and Data Science.
 
 <h2 align="left"> 👨‍💻 Technologies that I work or worked with</h2>
 <h3>Programming Languages</h3>
