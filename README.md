@@ -28,6 +28,7 @@ On my profile you can see some of the projects I worked on.
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
 
 <h3>Artificial Intelligence and Machine Learning</h3>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-numpy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit_learn-3499CD?style=for-the-badge&logo=scikitlearn&logoColor=F89939" alt="scikit_learn"/> </a>
