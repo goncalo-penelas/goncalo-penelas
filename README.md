@@ -3,8 +3,8 @@ On my profile you can see some of the projects I worked on.
 
 <h2 align="left"> 👋🏻 About me</h2>
 
-- I'm 22 years old and I'm currently working as a Technical Consultant in Dynamics NAV/365 BC at Arquiconsult.
-- Daily, I work with Dynamics NAV/365 BC, SQL and Azure DevOps.
+- I'm 23 years old and I'm currently pursuing a Computer Engineering MSc @ UTAD.
+- I'm carrying out a dissertation on "Machine learning for decision support and automation in games"
 - I'm insterested in Intelligent Systems and Data Science.
 
 <h2 align="left"> 👨‍💻 Technologies that I work or worked with</h2>
