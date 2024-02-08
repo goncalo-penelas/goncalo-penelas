@@ -3,7 +3,7 @@ On my profile you can see some of the projects I worked on.
 
 <h2 align="left"> 👋🏻 About me</h2>
 
-- I'm 23 years old and I'm currently pursuing a Computer Engineering MSc @ UTAD.
+- I'm 23 years old and I'm currently pursuing a Computer Engineering MSc @UTAD.
 - I'm carrying out a dissertation on "Machine learning for decision support and automation in games"
 - I'm insterested in Intelligent Systems and Data Science.
 
