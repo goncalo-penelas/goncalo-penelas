@@ -3,14 +3,13 @@ On my profile you can see some of the projects I worked on.
 
 <h2 align="left"> 👋🏻 About me</h2>
 
-- I'm 23 years old and I'm currently pursuing a Computer Engineering MSc @UTAD.
+- I'm a research assistant and currently pursuing a Computer Engineering MSc @UTAD.
 - I'm carrying out a dissertation on "Machine learning for decision support and automation in games"
 - I'm insterested in Intelligent Systems and Data Science.
 
 <h2 align="left"> 👨‍💻 Technologies that I work or worked with</h2>
 <h3>Programming Languages</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
