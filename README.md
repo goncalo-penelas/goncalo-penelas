@@ -3,8 +3,7 @@ On my profile you can see some of the projects I worked on.
 
 <h2 align="left"> 👋🏻 About me</h2>
 
-- Research assistant with an MSc in Computer Engineering
-- Building tools, models, and systems that solve real problems
+- Research assistant and PhD Student in Computer Science
 
 <h2 align="left"> 👨‍💻 Technologies that I work or worked with</h2>
 <h3>Programming Languages</h3>
