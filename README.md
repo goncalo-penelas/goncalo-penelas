@@ -22,7 +22,7 @@ My recent work has focused on <b>Deep Reinforcement Learning</b>, autonomous nav
 <h3>Programming Languages</h3>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/></a>
 
 <h3>Machine Learning & AI</h3>
